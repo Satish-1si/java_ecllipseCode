@@ -1,0 +1,4 @@
+//c-->clear,contains,covert(2),clone
+//a-->add 
+//r-->remove
+//
